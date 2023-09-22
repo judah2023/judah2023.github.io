@@ -3,5 +3,5 @@
 사실상 비밀 일기장
 ---
 바킹독 알고리즘
-github : https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md
+github : https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x0C.md  
 tistory : https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C
